@@ -20,7 +20,6 @@ Javascript ve php ile yaptığım anlık chat sistemi
                 `adi` varchar(20) NOT NULL,
                 `soyadi` varchar(20) NOT NULL,
                 `kullanici_adi` varchar(20) NOT NULL,
-                `sifre` varchar(200) NOT NULL,
                 `k_trh` date NOT NULL,
                 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
                 
