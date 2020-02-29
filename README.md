@@ -2,8 +2,9 @@
 Javascript ve php ile yaptığım anlık chat sistemi
 
 
-	PROJE BAŞLIK
-	        Javascript ve php ile Anlık Chat projesi
+PROJE BAŞLIK
+
+Javascript ve php ile Anlık Chat projesi
 	
 	* VERİTABANI TABLOLAR
 	
